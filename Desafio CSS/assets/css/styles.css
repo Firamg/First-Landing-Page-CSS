@@ -1,0 +1,83 @@
+.header{
+    background-image: url("https://nipgroup.com/wp-content/uploads/hydroponic_greenhouse-1200x900.jpg");
+    height: 5em;
+    padding: 3em;
+    background-position: center;
+    background-size: cover;
+    font-weight: 400;
+    text-align: center;
+    margin: auto;
+
+   
+
+}
+
+.header h1{
+    background-color: rgb(128, 175, 163);
+    width: 15%;
+    text-align: center;
+    margin: 0%;
+    font-weight: 400;
+    
+}
+
+.header p{
+    background-color: white;
+    width: fit-content;
+    border: solid 1px #ddd;
+    margin: 0%;
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(248, 235, 219);
+    margin: 0%;
+}
+
+.products{
+    border-top: 6px solid rgb(241, 184, 78);
+    width: 90%;
+    margin: auto;
+    align-self: auto;
+}
+
+.products td{
+    width: 50%;
+    height: 2em;
+    padding: 2em;
+
+}
+.products img{
+    width: 100%;
+    border: solid 1px #ddd;
+   
+}
+
+.products th{
+    background-color: rgb(71, 156, 75);
+    color: white;
+    padding: 0.4em;
+    border-radius: 20%;
+}
+
+.box{
+    
+    text-align: center;
+    background-color: rgb(212, 233, 224);
+    border-collapse: collapse;
+    border: solid 3px #ddd;
+    padding: 2em;
+    margin: auto;
+}
+
+
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(121, 99, 26);
+    text-align: center;
+    font-weight: 900;
+}
+
